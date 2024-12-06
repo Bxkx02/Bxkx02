@@ -1,5 +1,10 @@
-## Hi there 👋
+# Hola hola👋
 
+¡Hola!, soy ***Rebeca,*** desarrolladora web Jr, apsionada por la tecnología, aquí encontrarás información sobre mi.
+________
+
+Sobre mi:
+  n
 <!--
 **Bxkx02/Bxkx02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
